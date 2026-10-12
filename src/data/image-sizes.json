@@ -1,0 +1,94 @@
+{
+  "editorial-full": {
+    "width": 1200,
+    "height": 5000
+  },
+  "editorial": {
+    "width": 1280,
+    "height": 800
+  },
+  "jardim": {
+    "width": 1280,
+    "height": 800
+  },
+  "laboratorio-passaro": {
+    "width": 1280,
+    "height": 800
+  },
+  "laboratorio": {
+    "width": 1280,
+    "height": 800
+  },
+  "malha": {
+    "width": 1280,
+    "height": 800
+  },
+  "materia-do-mundo": {
+    "width": 1280,
+    "height": 800
+  },
+  "notion": {
+    "width": 1280,
+    "height": 800
+  },
+  "primeiro-site": {
+    "width": 1280,
+    "height": 800
+  },
+  "vitordemantova-full": {
+    "width": 1200,
+    "height": 5000
+  },
+  "vitordemantova": {
+    "width": 1280,
+    "height": 800
+  },
+  "cepil-logo": {
+    "width": 1280,
+    "height": 647
+  },
+  "cepil-logo-full": {
+    "width": 1408,
+    "height": 712
+  },
+  "dimensional-heritage": {
+    "width": 1128,
+    "height": 1127
+  },
+  "dimensional-heritage-full": {
+    "width": 1128,
+    "height": 1127
+  },
+  "lenin-leonidov": {
+    "width": 595,
+    "height": 842
+  },
+  "lenin-leonidov-full": {
+    "width": 595,
+    "height": 842
+  },
+  "poster-ccg": {
+    "width": 905,
+    "height": 1280
+  },
+  "poster-ccg-full": {
+    "width": 1414,
+    "height": 2000
+  },
+  "schoenberg-zine": {
+    "width": 1247,
+    "height": 1280
+  },
+  "schoenberg-zine-full": {
+    "width": 1298,
+    "height": 1332
+  },
+  "sun-lettering": {
+    "width": 909,
+    "height": 1280
+  },
+  "sun-lettering-full": {
+    "width": 1421,
+    "height": 2000
+  }
+}
